@@ -20,7 +20,7 @@ Simple site used as a Parked Page for our Top Level Domains that are reserved fo
 ---
 
 ## Hosted on NETLIFY
-[![Netlify Status]()
+[![Netlify Status](https://api.netlify.com/api/v1/badges/06087340-4346-4e60-aa5c-29a825824584/deploy-status)](https://app.netlify.com/sites/gracious-mirzakhani-91c7b5/deploys)
 
 ---
 
