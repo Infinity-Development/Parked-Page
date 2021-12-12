@@ -54,19 +54,12 @@ const Main = styled.div`
 `;
 
 const Footer = styled.div`
-  background-color: #0f0f0e;
-  font-family: "Quicksand", sans-serif;
-  padding: 85px 0 285px 0;
-  border: 5px solid #0090FF;
-  border-radius: 5px;
-`;
-
-const FooterInner = styled.div`
-    margin-left: auto;
-    margin-right: auto;
-    margin-bottom: 120px;
-    max-width: 1170px;
-    position: relative;
+  width: 100%;
+  height: 50px;
+  display: flex;
+  background-color: #23222B;
+  justify-content: center;
+  align-items: center;
 `;
 
 const Title = styled.h1`
