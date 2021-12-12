@@ -19,6 +19,8 @@ export default function Home() {
           This means that we are working on something new and exciting which will be hosted on this domain.
         </Description>
       </Main>
+      
+      <br /><br />
 
       <Footer>
         <FooterText>
@@ -28,6 +30,14 @@ export default function Home() {
             @InfinityBotList
           </Twitter>
         </FooterText>
+        <svg viewBox="0 0 120 28">
+         <defs> 
+             <path id="wave" d="M 0,10 C 30,10 30,15 60,15 90,15 90,10 120,10 150,10 150,15 180,15 210,15 210,10 240,10 v 28 h -240 z" />
+          </defs> 
+           <use id="wave3" class="wave" xlink:href="#wave" x="0" y="-2" ></use> 
+           <use id="wave2" class="wave" xlink:href="#wave" x="0" y="0" ></use>
+          <use id="wave1" class="wave" xlink:href="#wave" x="0" y="1" />
+        </svg>
       </Footer>
     </Container>
   );
