@@ -122,43 +122,11 @@ const GlobalStyle = createGlobalStyle`
         font-family: 'Quicksand', sans-serif;
         background-color: #16151d;
       }
-      p {
-        font-family: 'Quicksand', sans-serif;
-        color: white;
-      }
-      a {
-        font-family: 'Quicksand', sans-serif;
-        color: white;
-      }
       .left {
         margin-left: 80px;
         color: white;
       }
       strong {
-        font-family: 'Quicksand', sans-serif;
-        color: white;
-      }
-      h1 {
-        font-family: 'Quicksand', sans-serif;
-        color: white;
-      }
-      h2 {
-        font-family: 'Quicksand', sans-serif;
-        color: white;
-      }
-      h3 {
-        font-family: 'Quicksand', sans-serif;
-        color: white;
-      }
-      h4 {
-        font-family: 'Quicksand', sans-serif;
-        color: white;
-      }
-      h5 {
-        font-family: 'Quicksand', sans-serif;
-        color: white;
-      }
-      h6 {
         font-family: 'Quicksand', sans-serif;
         color: white;
       }
