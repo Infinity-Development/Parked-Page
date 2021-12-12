@@ -121,11 +121,7 @@ const GlobalStyle = createGlobalStyle`
       body {
         font-family: 'Quicksand', sans-serif;
         background-color: #16151d;
-      }
-      .left {
-        margin-left: 80px;
-        color: white;
-      }
+     }
       strong {
         font-family: 'Quicksand', sans-serif;
         color: white;
