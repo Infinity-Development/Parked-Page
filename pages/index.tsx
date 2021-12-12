@@ -24,8 +24,8 @@ export default function Home() {
 
       <Footer>
         <FooterText>
-         © 2021 - 2022 Infinity Bot List  -{" "}
-          <Website href="https://infinitybotlist.com">toxicdev.me</Website> -{" "}
+         © 2021 - 2022 Infinity Bot List  |{" "}
+          <Website href="https://infinitybotlist.com">toxicdev.me</Website> |{" "}
           <Twitter href="https://twitter.com/InfinityBotList">
             @InfinityBotList
           </Twitter>
