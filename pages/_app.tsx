@@ -1,6 +1,6 @@
 import { createGlobalStyle, ThemeProvider } from "styled-components";
 
-const globalStyle = createGlobalStyle`
+const GlobalStyle = createGlobalStyle`
     html,
     .dropdown {
         float: right;
