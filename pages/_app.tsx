@@ -118,6 +118,18 @@ const GlobalStyle = createGlobalStyle`
         animation-iteration-count: infinite;
         fill: #7289da;
       }
+      #wave2 {
+      animation-duration:7s;
+      animation-direction: reverse;
+      opacity: .6;
+     }
+     #wave3 {
+      animation-duration: 9s;
+      opacity:.3;
+     }
+@keyframes wave {
+  to {transform: translateX(-100%);}
+}
       body {
         font-family: 'Quicksand', sans-serif;
         background-color: #16151d;
